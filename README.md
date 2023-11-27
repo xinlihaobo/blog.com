@@ -1,0 +1,2 @@
+# blog.com
+use wordpress 
